@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl : `${window.location.protocol}//${window.location.hostname}/portfolio/`,
+  baseUrl : "https://dka233.github.io/pesonalportfolio/",
 };
