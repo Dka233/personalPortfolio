@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  baseUrl: \"https://dka233.github.io/pesonalportfolio/\"\n};","map":null,"metadata":{},"sourceType":"module"}
